@@ -1,6 +1,6 @@
 # Projetos de Machine Learning 
 
-**NOTA:** Os projetos académicos são armazenados nos repositórios `**Mestrado-Business-Intelligence**` e `**PG-Business-Analytics**`. 
+**NOTA:** Os projetos académicos são armazenados nos repositórios `Mestrado-Business-Intelligence` e `PG-Business-Analytics`. 
 
 ## Objetivo
 
